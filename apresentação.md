@@ -24,3 +24,6 @@ O que mais me atrai na programação
 - Aprender novas tecnologias
 - Evoluir constantemente como desenvolvedor
 - Explorar de tudo o que é possível
+
+
+Link direto ao repositório responsável por essa informações no Github: https://github.com/gabriel-saulo/Perfil-Dev
